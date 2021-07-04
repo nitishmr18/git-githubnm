@@ -1,1 +1,2 @@
 This is another test for file
+Another line for new commit
